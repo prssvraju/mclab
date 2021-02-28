@@ -28,7 +28,9 @@
     8. values (folder) --> strings , color, styles
     9. layouts --> constraint:  ,Linear: orientation , grid : numrow .. ,table : row, relative : layout_above ..  
     10 AVD  -- > Android Virtual Device 
-
+    11 Intent --> it is calss used to navigate form activity to another activity
+                  IntentObject.putExters("key","values") is used to exchange data between activitys
+                  intent.getStringExtra("key") is used retrive data in another activity
 3. Flutter 
     1.Hybrid Cross platform framework 
     2.There is no separation of view and control 
