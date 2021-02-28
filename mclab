@@ -1,0 +1,29 @@
+1. J2ME  -- java two Micro edition
+  Tools 
+    1. java (JDK 1.8)
+    2. wireless Tool kit 2.5
+  Development 
+    1.java class extends MIDLet -- it contains life cycle methods
+    2.Display -- > Forms ---> Components 
+    3.event handling 
+        1.CommandListener     -->   public void commandAction(Command command, Displayable displayable)
+        2.ItemStateListener   -->   public void itemStateChanged(Item item) 
+
+2. Android -- open source (OS)
+    1. SDK -- > software devlopment kit
+    2. Gradle -->   Build Tool
+    3. .apk --> android packing 
+    4. manifest -->  Agrement between android application and os
+    5. Ativity  -- > it contatins Business Logic(functionality)
+       layout --> Collection of view (Content to be displayed on screen)
+    6. res -- > resources values,drawables,minmap,layouts
+    7. drawables -- > contains all images in application
+    8. values (folder) --> strings , color, styles
+    9. constraint:  ,Linear: orintation , grid : num row .. ,table : row, relative : layout_above ..  
+    10 AVD  -- > Android Virtual Device 
+
+3. Flutter 
+    1.Hybrid Cross flatform fame work 
+    2.There is no seperation of view and control 
+    3. .dart
+    4. widgets 
