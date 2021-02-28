@@ -21,10 +21,12 @@
     4. manifest -->  Agreement between android application and os(contains all Activity,layout files, and properties of application)
     5. Activity  -- > it contatins Business Logic(functionality)
        layout --> Collection of view (Content to be displayed on screen)
-    6. res -- > resources values,drawables,mipmap,layouts
-    7. drawables -- > contains all images in application
+       Any java class which extends AppCompatActivity will work like activity as it contains Life cycle methods of activity
+
+    6. res (folder) -- > resources values,drawables,mipmap,layouts
+    7. drawables (folder) -- > contains all images in application
     8. values (folder) --> strings , color, styles
-    9. constraint:  ,Linear: orientation , grid : numrow .. ,table : row, relative : layout_above ..  
+    9. layouts --> constraint:  ,Linear: orientation , grid : numrow .. ,table : row, relative : layout_above ..  
     10 AVD  -- > Android Virtual Device 
 
 3. Flutter 
