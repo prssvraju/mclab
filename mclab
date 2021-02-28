@@ -10,20 +10,25 @@
         2.ItemStateListener   -->   public void itemStateChanged(Item item) 
 
 2. Android -- open source (OS)
-    1. SDK -- > software devlopment kit
-    2. Gradle -->   Build Tool
-    3. .apk --> android packing 
-    4. manifest -->  Agrement between android application and os
+    Tools
+    1. java (JDK above 1.8)
+    2. Android Studio ver 4
+    
+    Development
+    1. SDK -- > software development kit
+    2. Gradle -->  ver 3.5 Build Tool
+    3. .apk --> android package kit
+    4. manifest -->  Agreement between android application and os(contains all Ativity,layout files, and properties of application)
     5. Ativity  -- > it contatins Business Logic(functionality)
        layout --> Collection of view (Content to be displayed on screen)
-    6. res -- > resources values,drawables,minmap,layouts
+    6. res -- > resources values,drawables,mipmap,layouts
     7. drawables -- > contains all images in application
     8. values (folder) --> strings , color, styles
-    9. constraint:  ,Linear: orintation , grid : num row .. ,table : row, relative : layout_above ..  
+    9. constraint:  ,Linear: orientation , grid : numrow .. ,table : row, relative : layout_above ..  
     10 AVD  -- > Android Virtual Device 
 
 3. Flutter 
-    1.Hybrid Cross flatform fame work 
+    1.Hybrid Cross platform framework 
     2.There is no seperation of view and control 
-    3. language  --  .dart
-    4. widgets 
+    3.language  --  .dart
+    4.widgets 
