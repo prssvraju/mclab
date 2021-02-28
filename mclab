@@ -18,8 +18,8 @@
     1. SDK -- > software development kit
     2. Gradle -->  ver 3.5 Build Tool
     3. .apk --> android package kit
-    4. manifest -->  Agreement between android application and os(contains all Ativity,layout files, and properties of application)
-    5. Ativity  -- > it contatins Business Logic(functionality)
+    4. manifest -->  Agreement between android application and os(contains all Activity,layout files, and properties of application)
+    5. Activity  -- > it contatins Business Logic(functionality)
        layout --> Collection of view (Content to be displayed on screen)
     6. res -- > resources values,drawables,mipmap,layouts
     7. drawables -- > contains all images in application
